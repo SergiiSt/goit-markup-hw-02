@@ -212,7 +212,7 @@ body {
 .portfolio-btn:focus,
 .portfolio-btn:hover {
   color: var(--hero-title-color);
-  background: var(--hover-focus);
+  background-color: var(--hover-focus);
 }
 
 .portfolio-link {
